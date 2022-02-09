@@ -1,0 +1,6 @@
+/home/zh3ro/IdeaProjects/springboot2-essentials/src/main/java/academy/devdojo/springboot2/domain/Anime.java
+/home/zh3ro/IdeaProjects/springboot2-essentials/src/main/java/academy/devdojo/springboot2/repository/AnimeRepository.java
+/home/zh3ro/IdeaProjects/springboot2-essentials/src/main/java/academy/devdojo/springboot2/service/AnimeService.java
+/home/zh3ro/IdeaProjects/springboot2-essentials/src/main/java/academy/devdojo/springboot2/util/DateUtil.java
+/home/zh3ro/IdeaProjects/springboot2-essentials/src/main/java/academy/devdojo/springboot2/Springboot2EssentialsApplication.java
+/home/zh3ro/IdeaProjects/springboot2-essentials/src/main/java/academy/devdojo/springboot2/controller/AnimeController.java
